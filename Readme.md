@@ -1,0 +1,1 @@
+Projeto de utilitarios sobre dolar, e outras moedas.
